@@ -1,0 +1,15 @@
+syntax = "proto3";
+package person;
+message Person {
+string name = 1;
+int32 level = 2;
+string icon = 3;
+string school = 4;
+} 
+
+message Man {
+string name = 1;
+int32 level = 2;
+string icon = 3;
+string school = 4;
+} 

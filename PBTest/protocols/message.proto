@@ -1,0 +1,6 @@
+syntax = "proto3";
+package msg;
+message TestData{
+bool objid = 1;
+bool objnum = 2;
+} 

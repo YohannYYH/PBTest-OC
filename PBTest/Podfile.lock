@@ -1,0 +1,16 @@
+PODS:
+  - Protobuf (3.2.1)
+
+DEPENDENCIES:
+  - Protobuf (~> 3.2.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Protobuf
+
+SPEC CHECKSUMS:
+  Protobuf: 2ccbaf193f6c65adc67745453ca0c13234c32796
+
+PODFILE CHECKSUM: a98e076ae39f78c47b98dc84406928e0e65aa777
+
+COCOAPODS: 1.5.3
